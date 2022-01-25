@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kolteshubham517
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning java and js.
+- 👀 I’m interested in software development and cloud technologies.
+- 🌱 I’m currently learning python and AWS.
 - 💞️ I’m looking to collaborate on development and learning new technologies.
 - 📫 reach me on mail.(kolteshubham517@gmail.com)
 
